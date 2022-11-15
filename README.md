@@ -1,3 +1,5 @@
+<img width="1291" alt="Screen Shot 2022-11-15 at 4 54 34 PM" src="https://user-images.githubusercontent.com/3229911/202033266-76fd0649-24e4-4c69-bfdc-d0145b9af124.png">
+
 # Tech Used
 - node 16.17
 - vite with react-ts template
