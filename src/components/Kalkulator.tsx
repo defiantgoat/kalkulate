@@ -22,7 +22,7 @@ const Kalkulator = () => {
     }
 
     return formattedFunction;
-  }
+  };
 
   const clearInput = () => {
     if (currentReadout === "") {
