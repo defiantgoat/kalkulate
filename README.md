@@ -16,5 +16,7 @@
 - Turn buttons into separate components
 - Handle clearing state better. Currently first clear is for the entry and then the second clear removes all operations for a re-start
 - Handle the storage of the operations better. The array works for now, but seems like it could be done much better.
+- Add prettier
+- Add jest tests
 
 
